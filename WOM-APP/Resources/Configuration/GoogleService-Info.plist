@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>805319892082-lmqa39ojodbdsau22e1559r3ug4h4qpe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.805319892082-lmqa39ojodbdsau22e1559r3ug4h4qpe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsQbjpRQGjC_8tc9Giv5GAexfkQUlWkwY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>805319892082</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>WOM.WOM-APP</string>
+	<key>PROJECT_ID</key>
+	<string>wom-ww</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wom-ww.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:805319892082:ios:062579217381677f2d76eb</string>
+</dict>
+</plist>
